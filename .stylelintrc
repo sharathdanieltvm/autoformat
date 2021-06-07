@@ -1,5 +1,6 @@
 {
   "rules": {
+    "declaration-no-important": true,
     "color-no-invalid-hex": true,
     "color-named": "never",
     "font-family-no-duplicate-names": true,
